@@ -1,0 +1,13 @@
+# data / large files
+**/data/
+**/*.csv
+**/outputs/
+**/runs/
+**/wandb/
+**/checkpoints/
+
+# python
+**/.venv/
+**/__pycache__/
+**/.ipynb_checkpoints/
+**/.env
